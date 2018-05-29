@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;design-pattern/design-parttern-api-singleton&apos; to &apos;design-pattern-api-singleton&apos;" description="Rename resource &apos;design-parttern-api-singleton&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="design-parttern-api-singleton" name="design-pattern-api-singleton" stamp="1527491435123" updateReferences="true"/>
+</session>

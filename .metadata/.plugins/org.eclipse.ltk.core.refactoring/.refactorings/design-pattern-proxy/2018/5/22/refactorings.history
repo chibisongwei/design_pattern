@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;FlyBehavior.java&apos; to &apos;design-pattern-proxy/src/main/java/com.wiilian.proxy.service&apos;&#x0D;&#x0A;- Original project: &apos;design-pattern-proxy&apos;&#x0D;&#x0A;- Destination element: &apos;design-pattern-proxy/src/main/java/com.wiilian.proxy.service&apos;&#x0D;&#x0A;- Original element: &apos;com.wiilian.proxy.dao.FlyBehavior.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;com.wiilian.proxy.service" element1="/src\/main\/java&lt;com.wiilian.proxy.dao{FlyBehavior.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1527495904949" units="1" version="1.0"/>
+</session>

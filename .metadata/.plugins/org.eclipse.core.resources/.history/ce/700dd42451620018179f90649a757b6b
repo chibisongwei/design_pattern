@@ -1,0 +1,11 @@
+package com.wiilian.proxy.service.impl;
+
+import com.wiilian.proxy.service.FlyBehavior;
+
+public class FlyWithWings implements FlyBehavior{
+
+	public void fly() {
+		
+	}
+
+}

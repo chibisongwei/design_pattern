@@ -1,0 +1,27 @@
+package com.wiilian.proxy.entity;
+
+import com.wiilian.proxy.service.FlyBehavior;
+import com.wiilian.proxy.service.QuackBehavior;
+
+public class Duck {
+
+	private FlyBehavior flyBehavior;
+
+	private QuackBehavior quackBehavior;
+
+	public void swim() {
+
+	}
+
+	public void display() {
+
+	}
+	
+	public void performQuack(){
+		quackBehavior.quack();
+	}
+	
+	public void performFly(){
+		
+	}
+}

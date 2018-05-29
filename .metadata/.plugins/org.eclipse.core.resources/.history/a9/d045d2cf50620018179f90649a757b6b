@@ -1,0 +1,5 @@
+package com.wiilian.proxy.service;
+
+public interface QuackBehavior {
+	void quack();
+}

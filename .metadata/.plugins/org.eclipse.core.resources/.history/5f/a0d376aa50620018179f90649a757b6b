@@ -1,0 +1,6 @@
+package com.wiilian.proxy.service;
+
+public class FlyBehavior {
+
+	void fly();
+}

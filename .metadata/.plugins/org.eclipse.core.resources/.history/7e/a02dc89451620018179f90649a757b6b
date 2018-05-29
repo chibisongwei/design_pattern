@@ -1,0 +1,5 @@
+package com.wiilian.proxy.entity;
+
+public class Duck {
+
+}

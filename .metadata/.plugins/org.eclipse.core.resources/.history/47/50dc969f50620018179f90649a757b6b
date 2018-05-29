@@ -1,0 +1,5 @@
+package com.wiilian.proxy.dao;
+
+public class FlyBehavior {
+
+}
